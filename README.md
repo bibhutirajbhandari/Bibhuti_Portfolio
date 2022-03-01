@@ -27,4 +27,9 @@
 * what does dependencies stand for?
 * establishment of environment 
 
-![Screenshot (992)](https://user-images.githubusercontent.com/66860263/156218136-5f59177b-8029-46a6-99ad-fe23d77e8ebc.png)
+![Screenshot (992)](https://user-images.githubusercontent.com/66860263/156218136-5f59177b-8029-46a6-99ad-fe23d77e8ebc.png) 
+
+![Screenshot (994)](https://user-images.githubusercontent.com/66860263/156218416-45b1ef86-5630-468c-b7be-f7251033d3db.png)
+
+![Screenshot (1001)](https://user-images.githubusercontent.com/66860263/156218496-a1cd34d8-3130-4627-94fc-6ece02a6edd6.png)
+
