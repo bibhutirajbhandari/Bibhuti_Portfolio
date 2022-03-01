@@ -1,6 +1,6 @@
 # Portfolio
 
-Hi, I am Bibhuti!
+Hi, I am **Bibhuti**! <br>
 I'm a Web and App Development enthusiast who's also interested in AI.
 
 # [Project 1: Project Title Generator](https://github.com/bibhutirajbhandari/Project-Title-Generator) 
