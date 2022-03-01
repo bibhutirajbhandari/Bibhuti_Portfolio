@@ -12,5 +12,5 @@
 * easy use shortcuts to work with lengthy lines of code
 * use of prototype and many more additional features of javascript on an interactive webpage
 
-<img src="https://github.com/bibhutirajbhandari/Bibhuti_Portfolio/blob/main/GIF-Project%20Title%20Generator/GIF-Project%20Quote%20Generator%20.gif" width="40" height="40" />
+<img src="https://github.com/bibhutirajbhandari/Bibhuti_Portfolio/blob/main/GIF-Project%20Title%20Generator/GIF-Project%20Quote%20Generator%20.gif" width="300" height="200" />
 
