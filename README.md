@@ -1,5 +1,8 @@
 # Portfolio
 
+Hi, I am Bibhuti!
+I am an euthusist for Web and App Development and intrigued in AI.
+
 # [Project 1: Project Title Generator](https://github.com/bibhutirajbhandari/Project-Title-Generator) 
 * Created a tool that generates random titles for an inspo on CSS projects
 * An interaractive single website hosting title generation using html, css and javascript 
@@ -50,5 +53,8 @@
 * Basic Architectures concepts 
 * Intro to DL
 
+![Screenshot (1002)](https://user-images.githubusercontent.com/66860263/156221105-3ae1445e-7280-470a-a9da-e15c4823955e.png)
+
+![Screenshot (1003)](https://user-images.githubusercontent.com/66860263/156221377-f9cfc4c8-da85-4935-ac33-e59a9f27d87f.png)
 
 
