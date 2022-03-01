@@ -27,6 +27,4 @@
 * what does dependencies stand for?
 * establishment of environment 
 
-![alt text] (https://github.com/bibhutirajbhandari/Bibhuti_Portfolio/blob/main/images/Screenshot%20(1001).png)
-![] (https://github.com/bibhutirajbhandari/Bibhuti_Portfolio/blob/main/images/Screenshot%20(992).png)
-![] (https://github.com/bibhutirajbhandari/Bibhuti_Portfolio/blob/main/images/Screenshot%20(994).png)
+![Screenshot (992)](https://user-images.githubusercontent.com/66860263/156218136-5f59177b-8029-46a6-99ad-fe23d77e8ebc.png)
