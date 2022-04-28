@@ -36,25 +36,3 @@ I'm a Web and App Development enthusiast who's also interested in AI.
 
 ![Screenshot (1001)](https://user-images.githubusercontent.com/66860263/156218496-a1cd34d8-3130-4627-94fc-6ece02a6edd6.png)
 
-# [Project 3: ASR Speech Recognition]
-(on progress)
-
-* Working on Automatic speech recognition system based on a mix of acoustic model and language model 
-* To determine phonetic units in the language and model the wordsequences simultaneously IN-EN speakers
-* Language: Python 
-* Concepts used: MFCC, HMM, GMM ,DL
-* Training and testing of the model done by making a custom dataset of audio recordings 
-* Final evaluation of ASR on the basis of Word Error Rate
-
-### Learnings
-* MFCC and Ceptrum and it's significance into ASR 
-* Concepts as GMM , HMM
-* Common Approches to Python and its libraries as numpy,pandas,matplotlib
-* Basic Architectures concepts 
-* Intro to DL
-
-![Screenshot (1002)](https://user-images.githubusercontent.com/66860263/156221105-3ae1445e-7280-470a-a9da-e15c4823955e.png)
-
-![Screenshot (1003)](https://user-images.githubusercontent.com/66860263/156221377-f9cfc4c8-da85-4935-ac33-e59a9f27d87f.png)
-
-
