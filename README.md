@@ -1,7 +1,7 @@
 # Portfolio
 
 Hi, I am **Bibhuti**! <br>
-I'm a Web and App Development enthusiast who's also interested in AI.
+I'm a Web and App Development enthusiast
 
 # [Project 1: Project Title Generator](https://github.com/bibhutirajbhandari/Project-Title-Generator) 
 * Created a tool that generates random titles for an inspo on CSS projects
